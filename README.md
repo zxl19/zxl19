@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!-- [![zxl19's github stats](https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19)](https://github.com/anuraghazra/github-readme-stats) -->
+My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 
 <a href="https://github.com/zxl19">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true" />
