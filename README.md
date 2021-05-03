@@ -5,10 +5,10 @@ My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 <!-- [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) -->
 
 <a href="https://github.com/zxl19">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true?theme=tokyonight" />
 </a>
 <a href="https://github.com/zxl19">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&layout=compact?theme=tokyonight" />
 </a>
 
 <!--
