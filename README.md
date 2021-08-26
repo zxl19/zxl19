@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/zxl19?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/zxl19?style=social)
+
 My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 
 [![zxl19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true&theme=prussian)](https://github.com/zxl19)
