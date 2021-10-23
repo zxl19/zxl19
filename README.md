@@ -4,9 +4,13 @@
 
 My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 
-[![zxl19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true&theme=prussian)](https://github.com/zxl19)
+[![zxl19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![zxl19's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&layout=compact&theme=prussian)](https://github.com/zxl19)
+[![zxl19's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zxl19&theme=prussian)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zxl19&column=4&theme=algolia&margin-w=20&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **zxl19/zxl19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
