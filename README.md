@@ -6,7 +6,7 @@ My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 
 [![zxl19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![zxl19's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![zxl19's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&langs_count=6&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zxl19&column=4&theme=algolia&margin-w=20&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
