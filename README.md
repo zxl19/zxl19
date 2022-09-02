@@ -14,7 +14,8 @@ My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 
 [![zxl19's github activity graph](https://activity-graph.herokuapp.com/graph?username=zxl19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **zxl19/zxl19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
