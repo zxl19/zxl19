@@ -13,11 +13,11 @@ My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 [![trophy Light](https://github-profile-trophy.vercel.app/?username=zxl19&column=4&theme=flat&margin-w=20&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 [![trophy Dark](https://github-profile-trophy.vercel.app/?username=zxl19&column=4&theme=algolia&margin-w=20&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
-[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com?user=zxl19&theme=default#gh-light-mode-only)](https://git.io/streak-stats)
-[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com?user=zxl19&theme=prussian#gh-dark-mode-only)](https://git.io/streak-stats)
+[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com?user=zxl19&theme=default)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com?user=zxl19&theme=prussian)](https://git.io/streak-stats#gh-dark-mode-only)
 
-[![zxl19's github activity graph Light](https://activity-graph.herokuapp.com/graph?username=zxl19&theme=github-light#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![zxl19's github activity graph Dark](https://activity-graph.herokuapp.com/graph?username=zxl19&theme=react-dark#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![zxl19's github activity graph Light](https://activity-graph.herokuapp.com/graph?username=zxl19&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
+[![zxl19's github activity graph Dark](https://activity-graph.herokuapp.com/graph?username=zxl19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
