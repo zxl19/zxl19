@@ -16,8 +16,8 @@ My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 [![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com?user=zxl19&theme=github-light)](https://git.io/streak-stats#gh-light-mode-only)
 [![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com?user=zxl19&theme=github-dark-blue)](https://git.io/streak-stats#gh-dark-mode-only)
 
-[![zxl19's github activity graph-Light](https://activity-graph.herokuapp.com/graph?username=zxl19&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
-[![zxl19's github activity graph-Dark](https://activity-graph.herokuapp.com/graph?username=zxl19&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
+[![zxl19's github activity graph-Light](https://github-readme-activity-graph.cyclic.app/graph?username=zxl19&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
+[![zxl19's github activity graph-Dark](https://github-readme-activity-graph.cyclic.app/graph?username=zxl19&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
 
 ![GitHub Snake-Light](https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake-Dark](https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
