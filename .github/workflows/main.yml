@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 6 hours
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */6 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -42,7 +42,7 @@ jobs:
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       # !DO NOT set master as target branch, this GitHub action will erase everything!!!
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
