@@ -11,10 +11,12 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -26,23 +28,24 @@ jobs:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
+
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
           #
           #  supported options:
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
+          #  - palette:           A preset of color, one of [github, github-dark, github-light]
+          #  - color_snake:       Color of the snake
+          #  - color_dots:        Coma separated list of dots color.
+          #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
+          #                       Exactly 5 colors are expected.
+          #  - color_background:  Color of the background (for gif only)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      # !DO NOT set master as target branch, this GitHub action will erase everything!!!
+      # !zxl19: DO NOT set master as target branch, this GitHub action will erase everything!!!
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
