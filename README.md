@@ -6,19 +6,19 @@ My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-        <img src="https://github-profile-trophy.vercel.app/?username=zxl19&column=5&theme=flat" alt="trophy-light" width="75%">
+        <img src="https://github-profile-trophy.vercel.app/?username=zxl19&column=5&theme=flat" alt="github profile trophy in light mode" width="75%">
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-        <img src="https://github-profile-trophy.vercel.app/?username=zxl19&column=5&theme=darkhub" alt="trophy-dark" width="75%">
+        <img src="https://github-profile-trophy.vercel.app/?username=zxl19&column=5&theme=darkhub" alt="github profile trophy in dark mode" width="75%">
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://render.gitanimals.org/farms/zxl19" alt="git-animals" width="75%">
+        <img src="https://render.gitanimals.org/farms/zxl19" alt="git animals in farm mode" width="75%">
     </a>
 </p>
 
