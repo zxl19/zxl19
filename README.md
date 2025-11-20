@@ -18,7 +18,7 @@ My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 
 <p align="center">
     <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://render.gitanimals.org/farms/zxl19" alt="git-animals" width="600" height="300">
+        <img src="https://render.gitanimals.org/farms/zxl19" alt="git-animals" width="75%">
     </a>
 </p>
 
