@@ -6,26 +6,28 @@ My Blog：[https://zxl19.github.io](https://zxl19.github.io)
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-        <img src="https://github-profile-trophy.vercel.app/?username=zxl19&column=5&theme=flat" alt="trophy-Light" width="75%">
+        <img src="https://github-profile-trophy.vercel.app/?username=zxl19&column=5&theme=flat" alt="trophy-light" width="75%">
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-        <img src="https://github-profile-trophy.vercel.app/?username=zxl19&column=5&theme=darkhub" alt="trophy-Dark" width="75%">
+        <img src="https://github-profile-trophy.vercel.app/?username=zxl19&column=5&theme=darkhub" alt="trophy-dark" width="75%">
     </a>
 </p>
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake-light.svg#gh-light-mode-only">
-        <img src="https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake.svg" alt="GitHub Snake-Light" width="100%">
+    <a href="https://github.com/git-goods/gitanimals">
+        <img src="https://render.gitanimals.org/farms/zxl19" alt="git-animals" width="600" height="300">
     </a>
 </p>
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-        <img src="https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake-Dark" width="100%">
-    </a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zxl19/zxl19/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
 </p>
 
 <!--
